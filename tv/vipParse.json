@@ -1,10 +1,40 @@
 {
   "data": [
+   {
+      "id": 18,
+      "name": "牛逼解析",
+      "ad": "no",
+      "url": "https://v.lree.cn/jx/jx.php?url="
+    },
     {
       "id": 19,
-      "name": "线路8",
+      "name": "titan",
+      "ad": "no",
+      "url": "https://titan.mgtv.com.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "id": 20,
+      "name": "全民",
+      "ad": "no",
+      "url": "https://jx.quanmingjiexi.com/?url="
+    },
+    {
+      "id": 21,
+      "name": "256",
       "ad": "no",
       "url": "https://pay.520yk.cn/256/?url="
+    },
+   {
+      "id": 22,
+      "name": "极速",
+      "ad": "no",
+      "url": "https://jx.url.js.cn/?url="
+    },
+    {
+      "id": 23,
+      "name": "思古",
+      "ad": "no",
+      "url": "https://www.kiwi8.top/mov/s/?url="
     }
   ]
 }
